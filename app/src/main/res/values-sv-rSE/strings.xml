@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Min Applikation</string>
+    <string name="select_one">Välj En</string>
+    <string name="create">Skapa</string>
+    <string name="delete_one">Ta bort</string>
+    <string name="title">Titel</string>
+    <string name="create_one">Skapa En</string>
+    <string name="submit">Spara</string>
+    <string name="type_something">Skriv något...</string>
+    <string name="textview">Textvy</string>
+    <string name="delete">Radera</string>
+</resources>
